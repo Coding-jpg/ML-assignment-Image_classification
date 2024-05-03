@@ -1,2 +1,6 @@
 dataset/
 .conda/
+CNN_logs/
+dir_CNN/
+FCNN_logs/
+dir_FCNN/
