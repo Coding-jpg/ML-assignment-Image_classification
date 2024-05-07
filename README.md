@@ -30,3 +30,6 @@ CNN_tuning()用于参数搜索过程中建立模型
 ### 参数搜索(每个部分都根据最优参数获得一个最好模型)
 1. LinearSVC：GridSearch
 2. MLP & CNN：RandomSearch
+
+Update：
+2024.5.8 ———— 在3个模型上应用confusion matrix评估（非param tune）
